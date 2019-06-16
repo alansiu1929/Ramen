@@ -8,7 +8,7 @@ ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/ma
 str(ramen)
 
 #Check data summary for knowing where majority of data is leaning on
-*s*umma~r~y(ramen)
+summary(ramen),
  review_number              brand                    variety            style     
  Min.   :   1.0   Nissin       : 443   Beef              :   7   Pack      :1832  
  1st Qu.: 795.5   Nongshim     : 110   Chicken           :   7   Bowl      : 612  
@@ -24,7 +24,7 @@ str(ramen)
  Taiwan       : 330   Mean   :3.688  
  China        : 207   3rd Qu.:4.500  
  Thailand     : 205   Max.   :5.000  
- (Other)      :1167   NA's   :14    
+ (Other)      :1167   NA's   :14    ,
 
 #Check first 6 data output
 head(ramen,6)
