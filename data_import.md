@@ -18,9 +18,12 @@ str(ramen)
 ```
 summary(ramen)
 ```
+**Results:**
+![](https://raw.githubusercontent.com/alansiu1929/Ramen/master/images/summary_ramen.png) 
  
 ###### Check first 6 data output
 ```
 head(ramen,6)
 ```
-
+**Results:**
+![](https://github.com/alansiu1929/Ramen/blob/master/images/head_ramen.png)
