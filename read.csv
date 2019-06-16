@@ -1,0 +1,1 @@
+ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-04/ramen_ratings.csv')
