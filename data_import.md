@@ -7,18 +7,18 @@ Assign the name as ramen
 ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-04/ramen_ratings.csv')
 ```
 
-### Check data structure to know the characteristics of variables
+###### Check data structure to know the characteristics of variables
 ```
 str(ramen)
 ```
 **Results:**
  
-### Check data summary for knowing where majority of data is leaning on
+###### Check data summary for knowing where majority of data is leaning on
 ```
 summary(ramen)
 ```
  
-### Check first 6 data output
+###### Check first 6 data output
 ```
 head(ramen,6)
 ```
