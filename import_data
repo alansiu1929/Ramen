@@ -8,7 +8,7 @@ ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/ma
 str(ramen)
 
 #Check data summary for knowing where majority of data is leaning on
-summary(ramen)
+*s*umma~r~y(ramen)
  review_number              brand                    variety            style     
  Min.   :   1.0   Nissin       : 443   Beef              :   7   Pack      :1832  
  1st Qu.: 795.5   Nongshim     : 110   Chicken           :   7   Bowl      : 612  
