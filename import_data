@@ -12,3 +12,11 @@ summary(ramen)
 
 #Check first 6 data output
 head(ramen,6)
+
+ review_number           brand                      variety style  country stars
+1          3180         Yum Yum     Tem Tem Tom Yum Moo Deng   Cup Thailand  3.75
+2          3179      Nagatanien tom Yum Kung Rice Vermicelli  Pack    Japan  2.00
+3          3178         Acecook        Kelp Broth Shio Ramen   Cup    Japan  2.50
+4          3177 Maison de Coree       Ramen Gout Coco Poulet   Cup   France  3.75
+5          3176        Maruchan      Gotsumori Shio Yakisoba  Tray    Japan  5.00
+6          3175           Myojo        Chukazanmai Tantanmen   Cup    Japan  3.50
