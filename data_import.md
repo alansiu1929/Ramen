@@ -2,7 +2,7 @@
 ## This data is to show how to import market data of Ramen
 
 ### Import data by using read.csv('http://.csv')
-**Assign the name as ramen**
+Assign the name as ramen
 ```
 ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-04/ramen_ratings.csv')
 ```
@@ -11,6 +11,8 @@ ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/ma
 ```
 str(ramen)
 ```
+Results:
+
 'data.frame':	3180 obs. of  6 variables:
 
  $ review_number: int  3180 3179 3178 3177 3176 3175 3174 3173 3172 3171 ...
@@ -45,7 +47,8 @@ summary(ramen)
  ```
  head(ramen,6)
  ```
- review_number           brand  ,                    variety, style,  country, stars
+ review_number brand variety style country stars
+ 
 1          3180         Yum Yum     Tem Tem Tom Yum Moo Deng   Cup Thailand  3.75
 
 2          3179      Nagatanien tom Yum Kung Rice Vermicelli  Pack    Japan  2.00
