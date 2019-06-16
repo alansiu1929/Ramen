@@ -12,6 +12,7 @@ ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/ma
 str(ramen)
 ```
 **Results:**
+![](/str_ramen.png)
  
 ###### Check data summary for knowing where majority of data is leaning on
 ```
