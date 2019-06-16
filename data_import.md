@@ -12,9 +12,13 @@ ramen=read.csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/ma
 str(ramen)
 ```
 'data.frame':	3180 obs. of  6 variables:
+
  $ review_number: int  3180 3179 3178 3177 3176 3175 3174 3173 3172 3171 ...
+ 
  $ brand        : Factor w/ 456 levels "1 To 3 Noodles",..: 453 247 9 202 211 243 398 337 328 70 ...
+ 
  $ variety      : Factor w/ 2971 levels "\"A\" Series Artificial Chicken",..: 2698 2743 1362 2067 936 490 2295 1659 1004 256 ...
+ 
  
 ### Check data summary for knowing where majority of data is leaning on
 ```
