@@ -1,2 +1,5 @@
+```{r cars}
+summary(cars)
+```
 *ABC*,CDE,123,456
 7
